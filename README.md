@@ -30,7 +30,7 @@ Update 3 in Dev
 Update from Rahul 1
 Rahul Added comment for DEMO Android
 
-# Latest changes from DEV branch
+# Latest changes from M1 branch
 Update 3 in F1
 Update 1.3 in POC in F1 branch
 
