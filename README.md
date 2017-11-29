@@ -4,8 +4,13 @@
 
 Update 4.1 in DEV
 This is DEV update
+<<<<<<< HEAD
 # Update 1.1 in POC in F1 branch
 # Update 1 from Sanjay in F1
+=======
+
+Update 1 from Sanjay in F1
+>>>>>>> 821abe0eda73e97d8cb91ca9fdcb55704c9d4954
 Update 4.1 from Sanjay in F1
 
 Master Update 1
@@ -30,7 +35,7 @@ Update 3 in Dev
 Update from Rahul 1
 Rahul Added comment for DEMO Android
 
-# Update 3 in F1
+Update 3 in F1
 # Update 1.3 in POC in F1 branch
 
 
